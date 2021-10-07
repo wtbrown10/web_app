@@ -1,4 +1,4 @@
-package com.will.mobileappws.controller;
+package com.will.mobileappws.ui.controller;
 
 import com.fasterxml.jackson.databind.util.BeanUtil;
 import com.will.mobileappws.service.UserService;

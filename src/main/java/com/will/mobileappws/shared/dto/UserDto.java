@@ -1,6 +1,6 @@
 package com.will.mobileappws.shared.dto;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
+
 
 import java.io.Serializable;
 
